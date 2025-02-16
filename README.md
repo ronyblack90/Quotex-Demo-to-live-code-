@@ -1,1 +1,0 @@
-# Quotex-Demo-to-live-code-
